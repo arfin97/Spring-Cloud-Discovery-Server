@@ -1,0 +1,8 @@
+* xref:index.adoc[What is Discovery Server?]
+* xref:gateway-configuration.adoc[Configuration]
+
+* xref:references.adoc[References]
+** xref:online-refs.adoc[Online Resources]
+** xref:buglog.adoc[Common Bug Fixes]
+
+* xref:question-and-answers.adoc[Commonly Asked Questions]

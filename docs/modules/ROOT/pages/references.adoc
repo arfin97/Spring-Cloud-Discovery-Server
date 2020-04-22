@@ -1,0 +1,18 @@
+= References!
+
+== Some Thougts
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+=== Links
+
+* Spring Microservices Level 1: Java Brains (5hrs Playlist to get great initial idea about microservices)
+* Presentation of Rayan Banxter of Pivotal on Gateway
+* JavaUse tutorial of Gateway Server Implementation
+* JavaUse Blog of Gateway Server Implementation with Eureka Server
+* Sprim Microservices Level 3: Java Brains (2hrs Playlist to get indepth idea on how the configuration works in spring boot ecosystem and how to implement a spring boot cloud configuration server)

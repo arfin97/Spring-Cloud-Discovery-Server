@@ -1,0 +1,5 @@
+name: discovery-server
+title: Spring Cloud Discovery Server
+version: 1.0
+nav:
+- modules/ROOT/nav.adoc

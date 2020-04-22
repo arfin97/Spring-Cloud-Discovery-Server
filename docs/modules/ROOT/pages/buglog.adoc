@@ -1,0 +1,13 @@
+Like most Spring Getting Started guides, you can start from scratch and complete each step or you can bypass basic setup steps that are already familiar to you. Either way, you end up with working code.
+
+To start from scratch, move on to Starting with Spring Initializr.
+
+To skip the basics, do the following:
+
+Download and unzip the source repository for this guide, or clone it using Git: git clone https://github.com/spring-guides/gs-service-registration-and-discovery.git
+
+cd into gs-service-registration-and-discovery/initial
+
+Jump ahead to Start a Eureka Service Registry.
+
+When you finish, you can check your results against the code in gs-service-registration-and-discovery/complete.

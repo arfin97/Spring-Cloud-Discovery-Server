@@ -1,0 +1,28 @@
+= Configure your Discovery Server!
+
+== Some Thougts
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+=== Some More thoughts
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+== Configuring a Gateway Server
+1. Configuring a Discovery Server
+2. Spring Boot Project
+3. Eureka Server Dependency
+4. Change port to 8761 name to Discovery-Server
+5. Disable it’s client activities from application properties file.
+6. @EnableEurekaServer in Main class.
+7. Go to http://localhost:8761 to see the Eureka Server Dashboard.

@@ -1,0 +1,33 @@
+= Spring Cloud Gateway Server
+
+== What is Gateway Server? 
+
+This guide walks you through the process of starting and using the Netflix Eureka service registry.
+
+== Features
+
+* Built on Spring Framework 5, Project Reactor and Spring Boot 2.0
+
+* Able to match routes on any request attribute.
+
+* Predicates and filters are specific to routes.
+
+* Hystrix Circuit Breaker integration.
+
+* Spring Cloud DiscoveryClient integration
+
+* Easy to write Predicates and Filters
+
+* Request Rate Limiting
+
+* Path Rewriting
+
+== Some Heading
+
+Component B is one of two documentation components in the Antora Demo. The other docs component, Component A, can be accessed via the component selector menu (aka component drawer) at the bottom of the menu on the left side of the page.
+
+=== This is sub heading
+
+* Something
+* Something
+* Something
